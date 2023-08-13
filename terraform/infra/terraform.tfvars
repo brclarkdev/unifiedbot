@@ -1,2 +1,2 @@
-name_prefix = "Blue"
-location    = "EastUS"
+name_prefix = "unifiedbot"
+location    = "WestUS3"
