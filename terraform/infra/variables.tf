@@ -122,7 +122,7 @@ variable "openai_name" {
 variable "openai_sku_name" {
   description = "(Optional) Specifies the sku name for the Azure OpenAI Service"
   type = string
-  default = "S0"
+  default = "S"
 }
 
 variable "openai_custom_subdomain_name" {
