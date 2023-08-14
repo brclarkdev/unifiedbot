@@ -2,7 +2,6 @@ import os
 import chainlit as cl
 from langchain import HuggingFaceHub, PromptTemplate, LLMChain
 
-os.environ['HF_API_KEY'] = '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'
 
 model_id = 'tiiuae/falcon-7b-instruct'
 
